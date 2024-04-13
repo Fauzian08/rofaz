@@ -1,1 +1,14 @@
-
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Example St",
+    "city": "New York",
+    "zipcode": "10001"
+  },
+  "hobbies": ["reading", "swimming", "writing"],
+  "occupation": {
+    "position": "software developer",
+    "company": "Example Tech"
+  }
+}
