@@ -1,10 +1,10 @@
 {
-  "name": "John Doe",
-  "age": 30,
+  "name": "ss",
+  "age": ss,
   "address": {
-    "street": "123 Example St",
-    "city": "New York",
-    "zipcode": "10001"
+    "street": "x St",
+    "city": "xc",
+    "zipcode": "xcxc"
   },
   "hobbies": ["reading", "swimming", "writing"],
   "occupation": {
